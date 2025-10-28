@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="assets/images/app_mockup.png" alt="FreshGuard App Mockup" width="800"/>
+  
+  **Application Interface Mockup**
+</div>
+
 # FreshGuard 🍎
 
 Fresh Guard is an ADHD-focused application that helps users manage their food intake by providing helpful reminders and suggestions. The full-stack project consists of a React Native/Expo mobile app and an ASP.NET Core Web API backend.
