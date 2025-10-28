@@ -1,0 +1,112 @@
+[
+    {
+        "id": "1",
+        "itemId": "apple_001",
+        "userId": "user_123",
+        "category": "fridge",
+        "userCategory": "linh123_fridge",
+        "name": "Apple",
+        "imageUrl": "https://example.com/images/apple.jpg",
+        "expiryDate": "2024-03-10T12:00:00Z",
+        "uploadedAt": "2024-03-01T10:30:00Z"
+    },
+    {
+        "id": "2",
+        "itemId": "banana_002",
+        "userId": "user_123",
+        "category": "pantry",
+        "userCategory": "linh123_pantry",
+        "name": "Banana",
+        "imageUrl": "https://example.com/images/banana.jpg",
+        "expiryDate": "2024-03-08T14:00:00Z",
+        "uploadedAt": "2024-03-02T09:15:00Z"
+    },
+    {
+        "id": "3",
+        "itemId": "carrot_003",
+        "userId": "user_123",
+        "category": "fridge",
+        "userCategory": "linh123_fridge",
+        "name": "Carrot",
+        "imageUrl": "https://example.com/images/carrot.jpg",
+        "expiryDate": "2024-03-15T10:00:00Z",
+        "uploadedAt": "2024-03-03T12:45:00Z"
+    },
+    {
+        "id": "4",
+        "itemId": "broccoli_004",
+        "userId": "user_456",
+        "category": "fridge",
+        "userCategory": "linh123_fridge",
+        "name": "Broccoli",
+        "imageUrl": "https://example.com/images/broccoli.jpg",
+        "expiryDate": "2024-03-12T15:00:00Z",
+        "uploadedAt": "2024-03-02T16:20:00Z"
+    },
+    {
+        "id": "5",
+        "itemId": "rice_005",
+        "userId": "user_456",
+        "category": "pantry",
+        "userCategory": "linh123_pantry",
+        "name": "Rice",
+        "imageUrl": "https://example.com/images/rice.jpg",
+        "expiryDate": "2025-03-05T18:00:00Z",
+        "uploadedAt": "2024-03-01T11:10:00Z"
+    },
+    {
+        "id": "6",
+        "itemId": "milk_006",
+        "userId": "user_789",
+        "category": "fridge",
+        "userCategory": "linh123_fridge",
+        "name": "Milk",
+        "imageUrl": "https://example.com/images/milk.jpg",
+        "expiryDate": "2024-03-07T08:00:00Z",
+        "uploadedAt": "2024-03-02T08:00:00Z"
+    },
+    {
+        "id": "7",
+        "itemId": "cereal_007",
+        "userId": "user_789",
+        "category": "pantry",
+        "userCategory": "linh123_pantry",
+        "name": "Cereal",
+        "imageUrl": "https://example.com/images/cereal.jpg",
+        "expiryDate": "2024-07-10T10:00:00Z",
+        "uploadedAt": "2024-03-03T13:10:00Z"
+    },
+    {
+        "id": "8",
+        "itemId": "cheese_008",
+        "userId": "user_456",
+        "category": "fridge",
+        "userCategory": "linh123_fridge",
+        "name": "Cheese",
+        "imageUrl": "https://example.com/images/cheese.jpg",
+        "expiryDate": "2024-03-20T12:00:00Z",
+        "uploadedAt": "2024-03-04T17:00:00Z"
+    },
+    {
+        "id": "9",
+        "itemId": "pasta_009",
+        "userId": "user_123",
+        "category": "pantry",
+        "userCategory": "linh123_pantry",
+        "name": "Pasta",
+        "imageUrl": "https://example.com/images/pasta.jpg",
+        "expiryDate": "2025-05-09T09:30:00Z",
+        "uploadedAt": "2024-03-02T07:45:00Z"
+    },
+    {
+        "id": "10",
+        "itemId": "yogurt_010",
+        "userId": "user_789",
+        "category": "fridge",
+        "userCategory": "linh123_fridge",
+        "name": "Yogurt",
+        "imageUrl": "https://example.com/images/yogurt.jpg",
+        "expiryDate": "2024-03-10T10:00:00Z",
+        "uploadedAt": "2024-03-03T13:10:00Z"
+    }
+]
